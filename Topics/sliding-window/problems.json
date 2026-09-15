@@ -4,8 +4,28 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-15T20:11:50.813Z",
+  "updatedAt": "2026-09-15T20:11:58.352Z",
   "problems": [
+    {
+      "frontendId": "643",
+      "title": "Maximum Average Subarray I",
+      "slug": "maximum-average-subarray-i",
+      "problemName": "0643-maximum-average-subarray-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subarray-i/",
+      "folderPath": "0643-maximum-average-subarray-i/",
+      "readmePath": "0643-maximum-average-subarray-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0643-maximum-average-subarray-i.java",
+          "path": "0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.java",
+          "sha": "3ff988d3f3e84bac50977abefc437805ee4cf39f",
+          "lastSyncedAt": "2026-09-15T20:11:58.352Z"
+        }
+      ]
+    },
     {
       "frontendId": "1052",
       "title": "Grumpy Bookstore Owner",
