@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-15T20:14:11.048Z",
+  "updatedAt": "2026-09-15T20:14:59.795Z",
   "problems": [
+    {
+      "frontendId": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "problemName": "0033-search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "folderPath": "0033-search-in-rotated-sorted-array/",
+      "readmePath": "0033-search-in-rotated-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0033-search-in-rotated-sorted-array.java",
+          "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.java",
+          "sha": "7593dc286bef62dae7d26903fd72ddc5234ef7df",
+          "lastSyncedAt": "2026-09-15T20:14:59.795Z"
+        }
+      ]
+    },
     {
       "frontendId": "74",
       "title": "Search a 2D Matrix",
