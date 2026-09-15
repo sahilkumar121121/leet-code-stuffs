@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String"
+  },
+  "updatedAt": "2026-09-15T20:11:41.002Z",
+  "problems": [
+    {
+      "frontendId": "1456",
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+      "problemName": "1456-maximum-number-of-vowels-in-a-substring-of-given-length",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/",
+      "folderPath": "1456-maximum-number-of-vowels-in-a-substring-of-given-length/",
+      "readmePath": "1456-maximum-number-of-vowels-in-a-substring-of-given-length/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1456-maximum-number-of-vowels-in-a-substring-of-given-length.java",
+          "path": "1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.java",
+          "sha": "913500fb0d4a7bdd8bf5cc43b3543c31b18f4363",
+          "lastSyncedAt": "2026-09-15T20:11:41.002Z"
+        }
+      ]
+    }
+  ]
+}
