@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sliding-window",
+    "name": "Sliding Window"
+  },
+  "updatedAt": "2026-09-15T20:11:30.445Z",
+  "problems": [
+    {
+      "frontendId": "1052",
+      "title": "Grumpy Bookstore Owner",
+      "slug": "grumpy-bookstore-owner",
+      "problemName": "1052-grumpy-bookstore-owner",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/grumpy-bookstore-owner/",
+      "folderPath": "1052-grumpy-bookstore-owner/",
+      "readmePath": "1052-grumpy-bookstore-owner/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1052-grumpy-bookstore-owner.java",
+          "path": "1052-grumpy-bookstore-owner/1052-grumpy-bookstore-owner.java",
+          "sha": "b4af2481d1aeda9d105ef79136d78844ea72477f",
+          "lastSyncedAt": "2026-09-15T20:11:30.445Z"
+        }
+      ]
+    }
+  ]
+}
