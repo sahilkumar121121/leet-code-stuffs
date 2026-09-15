@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation"
+  },
+  "updatedAt": "2026-09-15T20:12:24.353Z",
+  "problems": [
+    {
+      "frontendId": "43",
+      "title": "Multiply Strings",
+      "slug": "multiply-strings",
+      "problemName": "0043-multiply-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
+      "folderPath": "0043-multiply-strings/",
+      "readmePath": "0043-multiply-strings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0043-multiply-strings.java",
+          "path": "0043-multiply-strings/0043-multiply-strings.java",
+          "sha": "fc75bf1e57ab292f8936b90a2b5df4138c653ced",
+          "lastSyncedAt": "2026-09-15T20:12:24.353Z"
+        }
+      ]
+    }
+  ]
+}
